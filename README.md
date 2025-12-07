@@ -14,7 +14,6 @@ Sou estudante do ensino superior no curso de ADS (Análise e Desenvolvimento de 
           
 </div><br>
 
-## Estatísticas GitHub
 
 
 
